@@ -1,0 +1,8 @@
+name: data_analysis_env
+
+dependencies:
+  - python=3.8
+  - pip
+  - jupyter
+  - pip:
+    - -r requirements.txt

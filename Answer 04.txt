@@ -1,0 +1,5 @@
+As per the provided formula -> Customer Lifetime Value (CLV) = accumulated revenue of a customer since
+acquisition
+
+(a) This graph doesn't provide adequate info to classify the performance as good or bad. Using only CLV as a primary KPI will be misleading as it doesn't incorporate customer acquisition cost.
+(b) One possible update could be additional barplt of customer acquisition cost w.r.t the clv. Even better indicator will be plotting quotient between customer acquisition cost and clv value. Quotient>=3 is usually considered as good performance indicator.
